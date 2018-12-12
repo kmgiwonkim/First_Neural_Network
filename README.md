@@ -8,7 +8,7 @@
 V0.2.0
 - Added UI
 - Uses Pickle to store var
-- Major optimization
+- Major optimizations
 - Does not run... yet. (wait for V0.2.1)
 
 V0.1.0
