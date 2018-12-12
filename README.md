@@ -10,8 +10,8 @@ V0.1.0
 - Saves variables in an external .txt file
 - Separate files to generate a random set of weights and biases
 
-V0.2.1
+V0.2.0
 - Added UI
 - Uses Pickle to store var
 - Major optimization
-- Does not run
+- Does not run... yet. (wait for V0.2.1)
