@@ -2,8 +2,16 @@
 - Still developing
 - Lacks what they call 'Programming discipline'
 - Image recognition neural network, with adjustable layer sizes
-- 'tries' to recognize 28x28 pixel hand-drawn numbers from the MNIST Database
-- lowest cost acheived so far: 0.894 (a.k.a., does not work)
+- Utilized the MNIST Database
+- Recognizez 28x28 pixel hand-drawn numbers
+- lowest cost acheived so far: 0.0430 (95% accuracy)
+
+
+V1.0.0
+- First pratical version
+- About 95% Accuracy
+- Slight improvements made on the UI
+- Minor Optimizations
 
 V0.2.0
 - Added UI
