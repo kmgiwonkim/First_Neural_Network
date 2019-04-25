@@ -1,6 +1,5 @@
 # First_Neural_Network
 - Still developing
-- Lacks what they call 'Programming discipline'
 - Image recognition neural network, with adjustable layer sizes
 - Utilized the MNIST Database
 - Recognizez 28x28 pixel hand-drawn numbers
