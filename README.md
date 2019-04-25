@@ -1,10 +1,13 @@
 # First_Neural_Network
 - Still developing
-- Image recognition neural network, with adjustable layer sizes
+- Single-Digit Image recognition neural network, with adjustable layer sizes
 - Utilized the MNIST Database
-- Recognizez 28x28 pixel hand-drawn numbers
+- Recognizes 28x28 pixel hand-drawn numbers
 - lowest cost acheived so far: 0.0430 (95% accuracy)
 
+To be Added:
+- EMNIST Database 
+- Alphabet Recognition
 
 V1.0.0
 - First pratical version
