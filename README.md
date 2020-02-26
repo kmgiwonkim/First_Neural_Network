@@ -4,6 +4,8 @@
 - Utilized the MNIST Database
 - Recognizes 28x28 pixel hand-drawn numbers
 - 97% accuracy
+- To test; get file Data.zip and unzip into same folder as Main.py 
+  (https://drive.google.com/file/d/1ZgNXD3VXlzsM-8HM1aEts4nEZY9zGWnG/view?usp=sharing)
 
 To be Added:
 - Alphabet Recognition
