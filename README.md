@@ -3,11 +3,21 @@
 - Single-Digit Image recognition neural network, with adjustable layer sizes
 - Utilized the MNIST Database
 - Recognizes 28x28 pixel hand-drawn numbers
-- lowest cost acheived so far: 0.0430 (95% accuracy)
+- 97% accuracy
 
 To be Added:
-- EMNIST Database 
 - Alphabet Recognition
+
+To be Explored:
+- Softmax
+- Cross Entropy
+
+V1.1.0
+- EMNIST Database was added
+- Can reach up to 97%* Accuracy
+  - The accuracy changes when the parameters are trained in MNIST and tested in EMNIST and vice versa
+  - EMNIST trained -> MNIST tested: around 75% accuracy
+- Code cleanup
 
 V1.0.0
 - First pratical version
