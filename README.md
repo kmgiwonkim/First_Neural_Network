@@ -1,5 +1,5 @@
 # First_Neural_Network
-- Wow! This code sucks! I didn't know anything about OOP, now its time to apply some after 3 years :D
+- Not OOP. Wow! Decided I'm not gonna update this code anymore.
 - Single-Digit Image recognition neural network, with adjustable layer sizes
 - Utilized the MNIST Database
 - Recognizes 28x28 pixel hand-drawn numbers
@@ -13,9 +13,6 @@ To be Added:
 To be Explored:
 - Softmax
 - Cross Entropy
-
-V2.0.0
-- Overhaul to OOP currently in Development!
 
 V1.1.0
 - EMNIST Database was added
