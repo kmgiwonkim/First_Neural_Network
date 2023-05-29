@@ -314,10 +314,6 @@ def UI():
             
 
 
-
-
-
-
 var = variables()
 var.setup(
         [784,28,10],    #Network
